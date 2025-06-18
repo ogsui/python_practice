@@ -1,1 +1,3 @@
-
+APPL
+MSFT
+TSLA
